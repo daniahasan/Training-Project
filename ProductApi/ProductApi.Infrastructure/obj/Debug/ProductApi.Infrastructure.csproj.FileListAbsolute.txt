@@ -1,0 +1,14 @@
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll.config
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.pdb
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.dll
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.dll
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.pdb
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.xml
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csprojAssemblyReference.cache
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CopyComplete
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.dll
+C:\dania_training\project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.pdb

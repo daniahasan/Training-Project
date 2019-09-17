@@ -1,0 +1,11 @@
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.dll
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.pdb
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\Castle.Core.dll
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\Castle.Windsor.dll
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\Castle.Core.xml
+C:\dania_training\project\ProductApi\ProductApi.Core\bin\Debug\Castle.Windsor.xml
+C:\dania_training\project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csproj.CoreCompileInputs.cache
+C:\dania_training\project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csproj.CopyComplete
+C:\dania_training\project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.dll
+C:\dania_training\project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.pdb
+C:\dania_training\project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csprojAssemblyReference.cache
